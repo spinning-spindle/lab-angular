@@ -8,7 +8,7 @@ Your application needs to have two (2) routes:
 
 ## Main Route
 * The main route will contain a fullscreen map (eg Google maps).
-* When the page loads, the map should display the markers from a given data set. 
+* When the page loads, the map should display the markers from the `locations.json` data set in this repo. 
 * Upon clicking on a marker a column will appear on the left of the same page, and the map will resize so both the column and the map fit the page.
 
 ## Second Route
