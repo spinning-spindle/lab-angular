@@ -4,7 +4,7 @@ You are required to develop an application using Angular 6+.
 
 **Note:** For the styling of the components you are free to use any framework of your choice. 
 
-You application needs to have two (2) routes:
+Your application needs to have two (2) routes:
 
 ## Main Route
 * The main route will contain a fullscreen map (eg Google maps).
